@@ -8,8 +8,8 @@ QR CODE using HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Teke111/QR-Code/edit/main/README.md
+- Live Site URL: [https://github.com/Teke111/QR-Code/edit/main/README.md]
 
 ### Built with
 
